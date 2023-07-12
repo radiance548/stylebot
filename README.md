@@ -8,7 +8,7 @@ tensorflow
 accelerate
 
 The image files are included in the project folder and the app code can be found in the bot.py file.
-I have included a like to the deployed version og my web app here: https://databutton.com/v/n5jrbj6j
+I have included a link to the deployed version of my web app here: https://databutton.com/v/n5jrbj6j
 
 Author: Radiance O. Ngonnase
 Copyright © 2023 Radiance O. Ngonnase
