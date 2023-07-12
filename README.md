@@ -16,6 +16,7 @@ accelerate
 
 The image files are included in the project folder and the app code can be found in the bot.py file.
 I have included a link to the deployed version of my web app here: https://databutton.com/v/n5jrbj6j
+A video demo of StyleBot in use can also be found here: https://clipchamp.com/watch/fRvlNCjRPLG
 
 Author: Radiance O. Ngonnase
 Copyright © 2023 Radiance O. Ngonnase
