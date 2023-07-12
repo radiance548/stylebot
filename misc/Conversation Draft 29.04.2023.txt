@@ -1,0 +1,12 @@
+Conversation Draft (An example/guideline/template) ** SUBJECT TO CHANGE **
+
+Bot: Hi,  I’m StyleBot, [something along the lines of “your virtual/AI fashion assistant”, may or may not be personalized (undecided)]. 
+
+Bot: What is your name?
+
+User responds
+
+Bot: Lovely to meet you, [user’s name] (This response can be interchanged with something similar in different interactions)
+
+Bot: What can I help you with today? 
+(NOTE: can also be interchanged e.g. “How can I help you today?” or “How can I be of assistance?” (not sure if this is too formal or not))

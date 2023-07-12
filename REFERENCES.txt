@@ -1,0 +1,82 @@
+		------- INCLUDES ALL REFERENCES USED WHEN WRITING THE CODE
+			AND ALSO THOSE CONSULTED WHEN WRITING THE REPORT, IN ADDITION
+		   TO THE SOURCES OF SOME OF THE IMAGES USED IN DESIGNING THE SOFTWARE ------
+
+- OpenAI website and API reference documentation, including but not limited to:
+	- https://platform.openai.com/docs/api-reference/chat/create
+	- https://platform.openai.com/docs/models/model-endpoint-compatibility
+
+- COMP6590 module materials (including lectures and seminars)
+- https://realpython.com/generate-images-with-dalle-openai-api/
+- https://medium.com/codingthesmartway-com-blog/how-to-use-chatgpt-with-python-1213b8477f7b
+- https://realpython.com/build-a-chatbot-python-chatterbot/
+- https://realpython.com/python-coding-setup-windows/#installing-chocolatey
+- https://github.com/pyenv-win/pyenv-win/blob/master/docs/installation.md#powershell- 
+- https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-      
+  python-8d856cda4542
+- https://medium.com/@avra42/getting-started-with-langchain-a-powerful-tool-for-working-with-large-language-
+  models-286419ba0842
+- https://platform.openai.com/docs/guides/images/introduction
+- https://medium.com/@avra42/summarizing-scientific-articles-with-openai-and-streamlit-fdee12aa1a2b
+- https://medium.com/@avra42/build-your-own-chatbot-with-openai-gpt-3-and-streamlit-6f1330876846
+- Streamlit documentation
+- https://stackoverflow.com/questions/70932538/how-to-center-the-title-and-an-image-in-streamlit
+- https://stackoverflow.com/questions/20370396/align-div-to-bottom-of-the-page
+- https://towardsdatascience.com/build-your-own-chatgpt-like-app-with-streamlit-20d940417389
+- https://discuss.streamlit.io/t/remove-or-reduce-spaces-between-elements/23283/6
+- https://docs.streamlit.io/library/api-reference/widgets/st.text_input
+- https://blog.streamlit.io/10-most-common-explanations-on-the-streamlit-forum/
+- https://stackoverflow.com/questions/11715646/scroll-automatically-to-the-bottom-of-the-page
+- https://stackoverflow.com/questions/18894400/how-can-i-make-the-contents-of-a-fixed-element-scrollable-only-
+  when-it-exceeds-t
+- https://stackoverflow.com/questions/56792003/how-to-keep-fixed-a-portion-of-a-web-page
+- https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView
+- https://discuss.streamlit.io/t/js-and-css-working-in-html-but-not-in-streamlit-app/40751
+- https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop
+- https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollHeight
+- https://docs.streamlit.io/library/components/components-api
+- https://discuss.streamlit.io/t/remove-made-with-streamlit-from-bottom-of-app/1370/10
+- https://docs.streamlit.io/library/api-reference/media/st.image
+- https://docs.streamlit.io/library/advanced-features/session-state#example-2-session-state-and-callbacks
+- https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/dispatchEvent
+- https://developer.mozilla.org/en-US/docs/Web/API/Event/Event
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#event_bubbling_and_capture
+- https://stackoverflow.com/questions/15393935/boolean-in-an-if-statement
+- https://stackoverflow.com/questions/21842373/css-selector-for-when-a-html-document-is-inside-an-iframe
+- https://www.javatpoint.com/javascript-onload
+- https://www.scaler.com/topics/javascript/anonymous-function-javascript/
+- https://developer.mozilla.org/en-US/docs/Glossary/Self-Executing_Anonymous_Function
+- W3Schools website
+- https://discuss.streamlit.io/t/prevent-st-text-input-from-triggering-callback-when-losing-focus/37103/2
+- MDN web docs
+- https://platform.openai.com/docs/guides/chat/introduction
+- https://docs.databutton.com/core-concepts/secrets
+- https://docs.streamlit.io/library/api-reference/widgets/st.file_uploader
+- https://discuss.streamlit.io/t/png-bytes-io-numpy-conversion-using-file-uploader/1409
+- https://stackoverflow.com/questions/64951937/document-queryselector-returns-an-element-thats-not-an-instance-of-node
+- https://stackoverflow.com/questions/5286241/javascript-store-object-as-fixed-value
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+- https://stackoverflow.com/questions/26943256/string-replace-doesnt-appear-to-be-working
+- https://platform.openai.com/docs/guides/images/introduction
+- https://stackoverflow.com/questions/38990396/how-to-check-if-an-element-has-a-specific-child
+- https://www.tutorialspoint.com/How-to-delay-a-JavaScript-function-call-using-JavaScript#:~:text=To%20provide%20delay%20in%20JavaScript,things%20of%20setTimeout()%20function.
+- https://huggingface.co/blog/blip-2
+- https://sh-tsang.medium.com/review-vision-transformer-vit-406568603de0
+- https://en.wikipedia.org/wiki/Foundation_models
+- https://en.wikipedia.org/wiki/Large_language_model
+- https://huggingface.co/tasks/image-to-text
+- https://www.w3schools.com/js/js_htmldom_nodelist.asp
+- https://stackoverflow.com/questions/3948445/how-to-make-div-on-top-of-all-other-control#:~:text=In%20order%20to%20pull%20an,is%20greater%20than%20all%20other's).
+- https://stackoverflow.com/questions/1719452/how-to-make-a-div-always-full-screen
+- https://discuss.streamlit.io/t/delete-widgets/7596/4
+- https://docs.streamlit.io/library/api-reference/widgets/st.file_uploader
+- https://huggingface.co/docs/transformers/pipeline_tutorial
+- https://huggingface.co/Salesforce/blip-image-captioning-large
+- https://huggingface.co/docs/transformers/main_classes/pipelines
+- https://huggingface.co/Salesforce/blip-image-captioning-base
+
+Image Sources:
+- Send button icon: https://www.pngwing.com/en/free-png-ybqjx/download?width=30
+- Picture icon: https://www.pngwing.com/en/free-png-abhkr/download?width=30
+- Test Image: Unsplash
+
