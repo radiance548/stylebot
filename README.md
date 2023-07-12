@@ -5,7 +5,7 @@ Conversely, the user can also choose to upload an image of themselves to it and 
 
 The bot uses the ChatGPT API (specifically the GPT 3.5-Turbo model) for the conversation part of the interaction and the DALL-E 2 API for generating realistic images of the recommended/suggested fashion items. Both APIs were created by OpenAI.
 
-The software was developed in the DataButton IDE online and so cannot be run locally on a machine. To run the code, you would have to add it to a new project on the IDE, upload the image icon files for the UI to the project storage, add on OpenAI API key as a secret to the project (for confidentiality) and configure the project to use the following packages: 
+The software was developed in the DataButton IDE online and so cannot be run locally on a machine. To run the code, you would have to add it to a new project on the IDE, upload the image icon files for the UI to the project storage, add an OpenAI API key as a secret to the project (for confidentiality) and configure the project to use the following packages: 
 
 streamlit_chat_media
 openai
@@ -15,8 +15,13 @@ tensorflow
 accelerate
 
 The image files are included in the project folder and the app code can be found in the bot.py file.
-I have included a link to the deployed version of my web app here: https://databutton.com/v/n5jrbj6j
+I have included a link to the deployed version of my web app here: https://databutton.com/v/n5jrbj6j 
 A video demo of StyleBot in use can also be found here: https://clipchamp.com/watch/fRvlNCjRPLG
+
+This software is a project I came up with and undertook as part of one of my modules in university.
+
+The "Methodology and Design" section of my written report goes into more detail on the technologies
+and frameworks I used in developing this software, including those not explicitly mentioned here.
 
 Author: Radiance O. Ngonnase
 Copyright © 2023 Radiance O. Ngonnase
